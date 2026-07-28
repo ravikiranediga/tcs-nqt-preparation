@@ -1,4 +1,4 @@
-num="A"
+num="1234"
 s=0
 
 for ch in num:
